@@ -3,3 +3,4 @@ kivy~=2.2.1
 numpy~=1.25.2
 torch~=2.0.0
 torchvision~=0.15.2
+git+https://github.com/jonhare/slideshow-framework.git#egg=slideshow-framework
